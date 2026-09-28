@@ -7,3 +7,5 @@
 ## Open Source Contributions
 
 Contributions being merged upstream — check back soon.
+
+- Contributor to [PyPSA](https://github.com/PyPSA/PyPSA) — PR #1950: Improve passive-flows consistency warning with carrier hint (merged 2026-09-29).
