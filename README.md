@@ -12,3 +12,5 @@ Contributions being merged upstream — check back soon.
 
 - Contributor to [PyPSA](https://github.com/PyPSA/PyPSA) — PR #1950: Improve passive-flows consistency warning with carrier hint (merged 2026-09-29).
 - Contributor to [pvlib](https://github.com/pvlib/pvlib-python) — PR #2869: Clarify AOI-minimizing principle in tracking.singleaxis docstring (merged 2026-10-05).
+- Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3147: Fix from_ppc dropping transformer in_service status (merged 2026-10-05).
+- Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3175: Fix load_dc unit conversions in runpp and rundcpp (merged 2026-10-05).
