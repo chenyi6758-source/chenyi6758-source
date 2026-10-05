@@ -11,3 +11,4 @@
 Contributions being merged upstream — check back soon.
 
 - Contributor to [PyPSA](https://github.com/PyPSA/PyPSA) — PR #1950: Improve passive-flows consistency warning with carrier hint (merged 2026-09-29).
+- Contributor to [pvlib](https://github.com/pvlib/pvlib-python) — PR #2869: Clarify AOI-minimizing principle in tracking.singleaxis docstring (merged 2026-10-05).
