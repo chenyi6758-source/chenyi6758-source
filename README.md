@@ -14,3 +14,5 @@ Contributions being merged upstream — check back soon.
 - Contributor to [pvlib](https://github.com/pvlib/pvlib-python) — PR #2869: Clarify AOI-minimizing principle in tracking.singleaxis docstring (merged 2026-10-05).
 - Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3147: Fix from_ppc dropping transformer in_service status (merged 2026-10-05).
 - Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3175: Fix load_dc unit conversions in runpp and rundcpp (merged 2026-10-05).
+
+- Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3176: Fix P(Q) and Q(V) polygon points of PQVArea4110 for VDE-AR-N 4110 (merged 2026-10-06).
