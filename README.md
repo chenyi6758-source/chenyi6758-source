@@ -16,3 +16,4 @@ Contributions being merged upstream — check back soon.
 - Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3175: Fix load_dc unit conversions in runpp and rundcpp (merged 2026-10-05).
 
 - Contributor to [pandapower](https://github.com/e2nIEE/pandapower) — PR #3176: Fix P(Q) and Q(V) polygon points of PQVArea4110 for VDE-AR-N 4110 (merged 2026-10-06).
+- Contributor to [tespy](https://github.com/oemof/tespy) — PR #1082: Specify hot/cold side ports in heat exchanger docs (merged 2026-10-09).
